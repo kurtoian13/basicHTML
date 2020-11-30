@@ -6,6 +6,7 @@ img:hover {
   background-color: gold;
 }
 
+
 h1 {
   color: #66BFBF;
   font-style: italic;
@@ -24,4 +25,9 @@ hr {
   border-width: 5px;
   height: 0px;
   width: 5%;
+}
+
+img {
+  height: 350px;
+  border-radius: 50%;
 }
